@@ -1,6 +1,6 @@
 {
-    "version": "5.0.0-0.0.1",
-    "name": "@react-native-oh-tpl/react-native-root-modal",
+    "version": "5.0.1",
+    "name": "@react-native-ohos/react-native-root-modal",
     "description": "react native modal component",
     "license": "MIT",
     "repository": {

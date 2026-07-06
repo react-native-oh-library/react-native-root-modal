@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-root-modal
+# @react-native-ohos/react-native-root-modal
 
 This project is based on [react-native-root-modal](https://github.com/magicismight/react-native-root-modal)
 
